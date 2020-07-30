@@ -5,5 +5,7 @@ public class Cal{
 	  return c;
 
      }
+     public void sleep(){}
+
 
 }
